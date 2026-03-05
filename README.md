@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-mH0rNImR834kS3A7S23DDR?se=2024-10-24T18%3A05%3A22Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1c5292a8-0850-4886-8968-07e1104e908f.webp&sig=G04/S6WIn0L0u/N%2Bh8A5/Ue3L5R7iHh6/Xl8X7/Y%2BsY%3D" width="100%">
+  <img src="capagithub.png">
 </p>
 
 # Olá, eu sou o Lucas Alexandre! 👋
