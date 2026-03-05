@@ -24,7 +24,7 @@ Desenvolvi uma solução robusta para automação de comissões, reduzindo drast
 
 - **O que faz:** Realiza o cruzamento inteligente de dados entre múltiplas planilhas e gera relatórios financeiros formatados.
 - **Diferencial Técnico:** Implementação de lógica de normalização de dados e mapeamento dinâmico de colunas com Python.
-- [🔗 Ver código completo deste projeto aqui](LINK_DO_SEU_REPOSITORIO_DO_CODIGO)
+- [🔗 Ver código completo deste projeto aqui](https://github.com/Lukquimhas/automacao-comissoes-python)
 
 ---
 
